@@ -1,12 +1,14 @@
 # Sabor Express
 
- Status: In development ⚠️
+Status: In development ⚠️
 
- This is an application developed during Python training taught by Alura technology school.
+This is an application developed during Python training taught by Alura technology school.
 
- ### App: The application consists of a restaurant registration program that allows the user to enter, search and change its status.
+### App:
+The application consists of a restaurant registration program that allows the user to enter, search and change its status.
 
- ### Objective: Become familiar with Python by understanding the flow of an operation using conditionals and repetition loops, learning how to effectively use "try-except" in the execution and control phase. Create functions that, through menus, allow users to register data in lists and dictionaries.> 
+### Objective:
+Become familiar with Python by understanding the flow of an operation using conditionals and repetition loops, learning how to effectively use "try-except" in the execution and control phase. Create functions that, through menus, allow users to register data in lists and dictionaries.> 
  
  ### How to run:
  python app.py
